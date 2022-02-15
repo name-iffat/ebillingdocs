@@ -1,6 +1,18 @@
-# Quick start
+# Quick start in Android Studio
+## Setup Emulator
+1. Open Android Studio .
 
-It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
+2. Open `SDK Manager > Android SDK` and Download **Android API 32** .
+![SDK Manager](/img/SDK-manager.png)
+
+3. Open `File > Project Structure > Project Setting > Project` and at Project SDK, Choose **Android API PLatform** .
+![SDK Manager](/img/Projectstructure.png)
+Then, at `Modules` make sure all checkboxes are checked.
+![SDK Manager](/img/Projectstructure-modules.png)
+4. You are done! Open IOS/Android simulator.
+Press the run button (green play icon) to start the project. (you can open multi simulator at the same time)
+
+
 
 ```bash
 npm i docsify-cli -g
