@@ -1,5 +1,5 @@
 # ebillingdocs
--- Getting started
+- Getting started
 
   - [Quick start](quickstart.md)
 
