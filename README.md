@@ -1,7 +1,7 @@
 # ebillingdocs
 - Getting started
 
-  - [Quick start](quickstart.md)
+  - [Quick start](docs/quickstart.md)
 
 - Customization
 
