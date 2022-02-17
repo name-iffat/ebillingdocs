@@ -1,4 +1,17 @@
 # Quick start in Android Studio
+
+## Setup Flutter Version
+1. Open terminal/git bash and run below:
+```bash
+flutter downgrade 2.5.3
+```
+2. Check current flutter version
+```bash
+flutter --version
+```
+
+
+
 ## Setup Emulator
 1. Open Android Studio .
 

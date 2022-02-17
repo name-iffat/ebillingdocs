@@ -1,13 +1,25 @@
-# ebillingdocs
+# E-billing Documentation
 
-This documentation is extended from [InspireUI Fluxstore Documentation](https://support.inspireui.com/help-center/articles/42/43/2/getting-started)
+> 🔶This documentation is extended from [InspireUI Fluxstore Documentation](https://support.inspireui.com/help-center/articles/42/43/2/getting-started)
 
 
-- Documentation Ebilling
-- Getting started
+|Compatible version|   |
+|------------------|------------- |
+| Flutter Version  | 2.5.3       |
 
-  - [Quick start](docs/quickstart.md)
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+Getting started
+- [Quick start](docs/quickstart.md)
 
-- Customization
+- [Home](docs/home.md)
 
-- Guide
+- [Product](docs/product.md)
+
+- [Category](docs/category.md)
+
+- [Admin](docs/admin_smartchart.md)
+
+- [Wallet](docs/currency_wallet.md)
+
+- [Route](docs/routes.md)
