@@ -14,4 +14,4 @@ class CurrencyTextFormatter extends TextInputFormatter {
       decimalDigits: 0);
 ```
 
-3. ![Product screen-list](/img/currency-wallet.png)
+3. ![Wallet Top-up](/ebillingdocs/img/wallet-currency.png)
