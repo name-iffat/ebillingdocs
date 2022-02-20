@@ -5,12 +5,41 @@
  Open `lib/screens/home/onboard_screen.dart` file in project
 
   ![On Board screen](/img/onboard-screen.png)
-
- ## Home Tab (Main Tab UI)
+  
+-----
+ ## Home Tab
  Open `lib/menu/maintab.dart` file in project
 
  ![Product list screen](/img/maintab.png)
 
+
+-----
+## Tabbar
+
+ ![Tabbar](/img/tabbar.png)
+
+> 🔲This consist of home, category, search, cart and profile button. Click below to go to site.
+>>🏠[Home button](#home-tab)
+
+>>🗄[Category button](category.md)
+
+>>🔍[Search button](#search)
+
+>>👜[Cart button](#cart-screen)
+
+>>👤[Profile button](#profile-screen)
+
+For the tabbar main function and to apply existed style of fluxstore tabbar can be access by:
+> Tabbar Styles that provided by Fluxstore shown by [👉CLICK HERE](https://support.inspireui.com/help-center/articles/42/44/11/customize-ui-layout#7-dynamic-tabbar)
++ Open `lib/menu/maintab.dart` file in project.
+
+While the tabbar UI layout can be access by:
++ Open `lib/modules/dynamic_layout/tabbar/tabbar_custom.dart` file in project.
+
+For tabbar icon can be access by:
++ Open `lib/modules/dynamic_layout/tabbar/tabbar_custom.dart` file in project.
+
+-----
 ## Logo 
  ![Logo Home](/img/logo-home.png)
 
@@ -25,7 +54,7 @@ For Sidebar function:
 ![Sidebar](/img/sidebar.png)
 
 
-For Search function:
+<span id="search">For Search function:<span>
 
  > ❗On home page search file is not the same as search at the tab bar
 
@@ -33,3 +62,19 @@ For Search function:
 ` file in project
 
  ![Homepage Search](/img/search-home.png)
+
+-----
+## Cart Screen
+Open `lib/screens/cart/my_cart_screen.dart` file in project.
+
+ ![Cart Screen](/img/my-cart-screen.png)
+
+-----
+## Profile Screen
+
+Open `lib/screens/settings/settings_screen.dart` file in project.
+> 🔲This consist of profile details, ibilling wallet and setting.
+
+ ![Profile Screen](/img/profile-screen.png)
+
+For more profile screen widget, [CLICK HERE](profile.md)

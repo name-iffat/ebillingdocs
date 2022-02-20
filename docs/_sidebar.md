@@ -1,9 +1,16 @@
-- Getting started
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+Getting started
+- [Quick start](docs/quickstart.md)
 
-  - [Quick start](quickstart.md)
+- [Home](docs/home.md)
 
-- Customization
+- [Product](docs/product.md)
 
+- [Category](docs/category.md)
 
+- [Admin](docs/admin_smartchart.md)
 
-- Guide
+- [Wallet](docs/currency_wallet.md)
+
+- [Route](docs/routes.md)

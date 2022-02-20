@@ -1,4 +1,5 @@
 # Quick start in Android Studio
+![Basic UI](/img/basicUI.png)
 
 ## Setup Flutter Version
 1. Open terminal/git bash and run below:
@@ -9,7 +10,6 @@ flutter downgrade 2.5.3
 ```bash
 flutter --version
 ```
-
 
 
 ## Setup Emulator
