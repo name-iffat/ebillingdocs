@@ -9,7 +9,7 @@ Open ``lib/screens/categories/categories_screen.dart`` file in project
 ![Category screen](/img/category-screen.png)
 
 ## Category Icon (At Home Tab)
-Open ``lib/screens/categories/categories_screen.dart`` file in project.
+Open ``lib/modules/dynamic_layout/category/category_icon.dart`` file in project.
 >category icon
 
 ![Category icon](/img/category-icon.png)

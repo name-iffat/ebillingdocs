@@ -1,5 +1,5 @@
 # Profile
-
+>[👉CLICK HERE](https://support.inspireui.com/help-center/articles/42/44/176/settings-screen-profile) to config setting screen
 ## Update profile
 
 Open `lib/screens/user_update/user_update_woo_screen.dart` file in project.
@@ -67,8 +67,8 @@ Open `lib/screens/posts/post_screen.dart` file in project.
 ## About US
 > About Us can be created at Fluxbuilder
 
-Open `lib/screens/posts/post_screen.dart` file in project.
+Open `lib/widgets/common/webview.dart` file in project.
 
- ![About Us Screen](/img/privacyterm.png)
+ ![About Us Screen](/img/about-us.png)
 
 -----
