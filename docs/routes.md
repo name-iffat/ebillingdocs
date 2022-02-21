@@ -1,7 +1,10 @@
 # Routes
 
+## Fixed text display
+All fixed text display that is use as style or message alert are store at `lib/generated/l10n.dart` file in the project.
 ## How to know Screen Name
 This also include function on pop and push
+
 1. Open `lib/routes/route_observer.dart` file in the project.
 2. Breakpoint at 
 ```flutter

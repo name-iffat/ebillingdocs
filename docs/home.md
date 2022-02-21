@@ -64,6 +64,23 @@ For Sidebar function:
  ![Homepage Search](/img/search-home.png)
 
 -----
+
+## Category screen
+Open ``lib/screens/categories/categories_screen.dart`` file in project
+
+![Category screen](/img/category-screen.png)
+
+-----
+
+## Search Screen
+This search screen is from the bottom tabbar.
+>💠 To differentiate between search screen from home tab and tabbar is the **tabbar has title "Search"**
+
+Open `lib/screens/search/search_screen.dart` file in project.
+
+ ![Search Tabbar Screen](/img/search-tabbar.png)
+
+-----
 ## Cart Screen
 Open `lib/screens/cart/my_cart_screen.dart` file in project.
 
@@ -77,4 +94,4 @@ Open `lib/screens/settings/settings_screen.dart` file in project.
 
  ![Profile Screen](/img/profile-screen.png)
 
-For more profile screen widget, [CLICK HERE](profile.md)
+👉For more about profile screen widget, **[CLICK HERE!](profile.md)** .
