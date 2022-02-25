@@ -1,5 +1,5 @@
 # Routes
-
+>Mobile localhost: http://10.0.2.2
 ## Fixed text display
 All fixed text display that is use as style or message alert are store at `lib/generated/l10n.dart` file in the project.
 ## How to know Screen Name
